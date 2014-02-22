@@ -5,8 +5,8 @@ import math
 from tempodb import Client
 from pygal.style import BlueStyle
 
-API_KEY = '0bc0fa6e539644c6b2eecfa59b319c26'
-API_SECRET = '8a2c2c7f0401422fbc058aec54a58bb6'
+API_KEY = 'API_KEY'
+API_SECRET = 'API_SECRET'
 MILES_SERIES_KEY = 'divvy.trip.miles'
 TEMPERATURE_SERIES_KEY = 'divvy.trip.temperature'
 
