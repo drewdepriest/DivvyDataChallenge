@@ -15,7 +15,7 @@ public class DivvyMain{
 	 /*
 	 *  USE THESE THREE VARIABLES TO DETERMINE WHETHER OR NOT TO CALL MAP API
 	 *  
-	 * 	(stagger them every 10,000 at a time so as to avoid timeouts)
+	 * 	(stagger them every 5,000 at a time so as to avoid timeouts)
 	 *	Round 1: 0-5000
 	 *	Round 2: 5000 -  10000
 	 *	Round 3: 10000 - 15000
