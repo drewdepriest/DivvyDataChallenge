@@ -1,7 +1,5 @@
 package com.drew.github;
 
-import io.keen.client.java.KeenClient;
-
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -262,9 +260,6 @@ public class ReadCSV {
 
 				// store values in the new bean
 				String tempDate = trip[0];
-				
-				// NOAA weather data stored as 20130627
-		        //String tempDateFixed = tempDate.replace("/13 ","/2013 ");
 				
 				SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");
 				
