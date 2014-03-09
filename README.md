@@ -6,7 +6,7 @@ You can read more at http://www.drewdepriest.com/how-to-make-sense-of-750000-bic
 
 Sample console output for running MapQuest Directions API calls:
 
-'Step 1: Read in data from CSV files.'
+```Step 1: Read in data from CSV files.
 Total trips: 757911
 Number of round trips: 41781
 Step 2: Remove all duplicate trips.
@@ -25,4 +25,4 @@ Step 3: Start calling maps API.
 90.0% complete at 02/16/2014 21:38:46
 Wrote CSV file to /Users/drewdepriest/Desktop/Divvy/divvy-trips-mileage-2013-DISTANCE-30000-35000.csv
 Step 4: Send email to self as notification that the job is complete.
-Done
+Done```
