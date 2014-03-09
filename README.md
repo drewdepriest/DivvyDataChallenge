@@ -6,9 +6,12 @@ You can read more at http://www.drewdepriest.com/how-to-make-sense-of-750000-bic
 
 Sample console output for running MapQuest Directions API calls:
 
-```Step 1: Read in data from CSV files.\n
-Total trips: 757911\n
-Number of round trips: 41781\n
+```Step 1: Read in data from CSV files.
+
+Total trips: 757911
+
+Number of round trips: 41781
+
 Step 2: Remove all duplicate trips.\n
 Number of unique trip routes: 44180\n
 Step 3: Start calling maps API.\n
